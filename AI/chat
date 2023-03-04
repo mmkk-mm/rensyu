@@ -1,0 +1,6 @@
+
+class myclass:
+    def __init__(self):
+        print('ins')
+        
+my_instance = myclass('INS')        
